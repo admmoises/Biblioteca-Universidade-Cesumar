@@ -1,0 +1,6 @@
+br/com/biblioteca/filter/CharacterEncodingFilter.class
+br/com/biblioteca/model/ValidadorLivro.class
+br/com/biblioteca/controller/LivroServlet.class
+br/com/biblioteca/model/Livro.class
+br/com/biblioteca/model/BibliotecaDAO.class
+br/com/biblioteca/controller/IndexBean.class
